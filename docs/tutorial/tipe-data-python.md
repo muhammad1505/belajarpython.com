@@ -39,7 +39,9 @@ print(20)
 print(3.14)
 
 #tipe data Hexadecimal
-print(9a)
+nilai=154
+#akan menampilkan bilangan hexadecimal 9a
+print(hex(nilai)[2.])
 
 #tipe data Complex
 print(5j)
